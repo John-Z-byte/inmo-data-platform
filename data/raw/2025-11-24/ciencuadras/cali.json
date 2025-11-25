@@ -1,0 +1,216 @@
+[
+  {
+    "url": "https://www.ciencuadras.com/inmueble/casa-en-arriendo-en-conjunto-residencial-canelo-cali-3396682",
+    "titulo": "Casa en arriendo, Ciudad modelo",
+    "ubicacion": "Cali, Comuna 22, Conjunto residencial canelo",
+    "precio_arriendo": "$1.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "3",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-el-diamante-cali-3511290",
+    "titulo": "Local en arriendo, Ciudad 2000",
+    "ubicacion": "Cali, Comuna 13, El diamante",
+    "precio_arriendo": "$1.600.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "1",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-vipasa-cali-3472927",
+    "titulo": "Local en arriendo, Vipasa",
+    "ubicacion": "Cali, Comuna 2, Vipasa",
+    "precio_arriendo": "$1.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "1",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-miraflores-cali-3519248",
+    "titulo": "Apartamento en arriendo, Miraflores",
+    "ubicacion": "Cali, Comuna 19, Miraflores",
+    "precio_arriendo": "$1.600.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "3",
+    "banos": "2",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-mojica-cali-3447353",
+    "titulo": "Apartamento en arriendo, Mojica",
+    "ubicacion": "Cali, Comuna 15, Mojica",
+    "precio_arriendo": "$470.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-departamental-cali-3472440",
+    "titulo": "Apartamento en arriendo, Ciudad pacífica",
+    "ubicacion": "Cali, Comuna 10, Departamental",
+    "precio_arriendo": "$1.600.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "3",
+    "banos": "2",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/oficina-en-arriendo-en-san-pedro-cali-3181206",
+    "titulo": "Oficina en arriendo, San pedro",
+    "ubicacion": "Cali, Comuna 3, San pedro",
+    "precio_arriendo": "$585.000",
+    "area_privada": "",
+    "area_construida": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/oficina-en-arriendo-en-ciudadela-campestre-cali-3539922",
+    "titulo": "Oficina en arriendo, Sur",
+    "ubicacion": "Cali, Comuna 22, Ciudadela campestre",
+    "precio_arriendo": "$6.800.000",
+    "area_privada": "",
+    "area_construida": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/casa-en-arriendo-en-cali-cali-3533689",
+    "titulo": "Casa en arriendo, Sur",
+    "ubicacion": "Valle del cauca, Cali, Cali",
+    "precio_arriendo": "$10.500.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "3",
+    "banos": "5",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-jorge-zawadsky-cali-3547405",
+    "titulo": "Apartamento en arriendo, La selva",
+    "ubicacion": "Cali, Comuna 10, Jorge zawadsky",
+    "precio_arriendo": "$1.700.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "2",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/casa-en-arriendo-en-paso-del-comercio-cali-3537666",
+    "titulo": "Casa en arriendo, Villas de veracruz",
+    "ubicacion": "Cali, Comuna 6, Paso del comercio",
+    "precio_arriendo": "$900.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "3",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-lili-cali-3509674",
+    "titulo": "Apartamento en arriendo, Lili",
+    "ubicacion": "Cali, Comuna 17, Lili",
+    "precio_arriendo": "$1.800.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "2",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-obrero-cali-3458601",
+    "titulo": "Local en arriendo, Obrero",
+    "ubicacion": "Cali, Comuna 9, Obrero",
+    "precio_arriendo": "$1.500.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "2",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/oficina-en-arriendo-en-manzanares-cali-3472699",
+    "titulo": "Oficina en arriendo, Manzanares",
+    "ubicacion": "Cali, Comuna 4, Manzanares",
+    "precio_arriendo": "$600.000",
+    "area_privada": "",
+    "area_construida": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/bodega-en-arriendo-en-villa-colombia-cali-3476176",
+    "titulo": "Bodega en arriendo, Villa colombia",
+    "ubicacion": "Cali, Comuna 8, Villa colombia",
+    "precio_arriendo": "$7.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "3",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/oficina-en-arriendo-en-san-vicente-cali-3203410",
+    "titulo": "Oficina en arriendo, San vicente",
+    "ubicacion": "Cali, Comuna 2, San vicente",
+    "precio_arriendo": "$2.500.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "3",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-torres-de-confandi-cali-3486542",
+    "titulo": "Apartamento en arriendo, Palmeras del norte",
+    "ubicacion": "Cali, Comuna 5, Torres de confandi",
+    "precio_arriendo": "$930.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-colseguros-andes-cali-3541835",
+    "titulo": "Apartamento en arriendo, Las vegas del lili",
+    "ubicacion": "Cali, Comuna 10, Colseguros andes",
+    "precio_arriendo": "$900.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "3",
+    "banos": "2",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-evaristo-garcia-cali-3447321",
+    "titulo": "Apartamento en arriendo, Norte",
+    "ubicacion": "Cali, Comuna 4, Evaristo garcía",
+    "precio_arriendo": "$1.400.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "2",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartaestudio-en-arriendo-en-chipichape-cali-3547315",
+    "titulo": "Apartaestudio en arriendo, Chipichape",
+    "ubicacion": "Cali, Comuna 2, Chipichape",
+    "precio_arriendo": "$1.800.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "1",
+    "banos": "1",
+    "estrato": ""
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-la-calleja-bogota-3509184",
+    "titulo": "Local en arriendo, Restrepo",
+    "ubicacion": "Bogotá, Usaquén, La calleja",
+    "precio_arriendo": "$30.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-nueva-zelandia-bogota-3525885",
+    "titulo": "Apartamento en arriendo, Nueva zelandia",
+    "ubicacion": "Bogotá, Suba, Nueva zelandia",
+    "precio_arriendo": "$2.300.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "2",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-cedro-narvaez-bogota-3545498",
+    "titulo": "Apartamento en arriendo, Cedro narvaez",
+    "ubicacion": "Bogotá, Usaquén, Cedro narvaez",
+    "precio_arriendo": "$2.900.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "1",
+    "banos": "1",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-restrepo-bogota-3509189",
+    "titulo": "Local en arriendo, Restrepo",
+    "ubicacion": "Bogotá, Antonio nariño, Restrepo",
+    "precio_arriendo": "$15.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartaestudio-en-arriendo-en-el-tintal-bogota-3548197",
+    "titulo": "Apartaestudio en arriendo, El tintal",
+    "ubicacion": "Bogotá, Kennedy, El tintal",
+    "precio_arriendo": "$950.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "1",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/edificio-en-arriendo-en-paloquemao-bogota-3510727",
+    "titulo": "Edificio en arriendo, La fragua",
+    "ubicacion": "Bogotá, Los martires, Paloquemao",
+    "precio_arriendo": "$22.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "11",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-industrial-centenario-bogota-3513719",
+    "titulo": "Apartamento en arriendo, Industrial centenario",
+    "ubicacion": "Bogotá, Puente aranda, Industrial centenario",
+    "precio_arriendo": "$1.400.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "1",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-el-retiro-bogota-3507598",
+    "titulo": "Apartamento en arriendo, La cabrera",
+    "ubicacion": "Bogotá, Chapinero, El retiro",
+    "precio_arriendo": "$6.500.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "3",
+    "banos": "3",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-pradera-norte-bogota-3524485",
+    "titulo": "Apartamento en arriendo, Ciudad las salle",
+    "ubicacion": "Bogotá, Usaquén, Pradera norte",
+    "precio_arriendo": "$1.600.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-sagrado-corazon-bogota-3506069",
+    "titulo": "Local en arriendo, Centro internacional",
+    "ubicacion": "Bogotá, Santafe, Sagrado corazon",
+    "precio_arriendo": "$3.200.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-eduardo-santos-bogota-3542711",
+    "titulo": "Apartamento en arriendo, Eduardo santos",
+    "ubicacion": "Bogotá, Los martires, Eduardo santos",
+    "precio_arriendo": "$1.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartaestudio-en-arriendo-en-los-rosales-bogota-3537227",
+    "titulo": "Apartaestudio en arriendo, Los rosales",
+    "ubicacion": "Bogotá, Chapinero, Los rosales",
+    "precio_arriendo": "$3.200.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "1",
+    "banos": "1",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartaestudio-en-arriendo-en-cedritos-bogota-3504319",
+    "titulo": "Apartaestudio en arriendo, Los cedros",
+    "ubicacion": "Bogotá, Usaquén, Cedritos",
+    "precio_arriendo": "$1.700.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "1",
+    "banos": "1",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-villa-magdala-bogota-3549510",
+    "titulo": "Local en arriendo, Las orquideas",
+    "ubicacion": "Bogotá, Usaquén, Villa magdala",
+    "precio_arriendo": "$3.600.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-san-antonio-norte-bogota-2879961",
+    "titulo": "Apartamento en arriendo, San antonio norte",
+    "ubicacion": "Bogotá, Usaquén, San antonio norte",
+    "precio_arriendo": "$1.500.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "3",
+    "banos": "2",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-villa-magdala-bogota-3549582",
+    "titulo": "Apartamento en arriendo, Las orquideas",
+    "ubicacion": "Bogotá, Usaquén, Villa magdala",
+    "precio_arriendo": "$1.800.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "1",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-ub-el-parque-bogota-3509525",
+    "titulo": "Local en arriendo, Santa catalina",
+    "ubicacion": "Bogotá, Kennedy, Ub. el parque",
+    "precio_arriendo": "$1.750.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "2",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-o-venta-en-pradera-norte-bogota-3161007",
+    "titulo": "Apartamento en arriendo o venta, Ciudad la salle",
+    "ubicacion": "Bogotá, Usaquén, Pradera norte",
+    "precio_arriendo": "$1.550.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "2",
+    "banos": "1",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-chapinero-central-bogota-3447028",
+    "titulo": "Apartamento en arriendo, Chapinero central",
+    "ubicacion": "Bogotá, Chapinero, Chapinero central",
+    "precio_arriendo": "$4.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "habitaciones": "4",
+    "banos": "4",
+    "parqueaderos": "",
+    "estrato": ""
+  },
+  {
+    "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-eduardo-santos-bogota-3553917",
+    "titulo": "Local en arriendo, Eduardo santos",
+    "ubicacion": "Bogotá, Los martires, Eduardo santos",
+    "precio_arriendo": "$1.000.000",
+    "area_privada": "",
+    "area_construida": "",
+    "banos": "1",
+    "estrato": ""
+  }
+]
